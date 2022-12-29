@@ -1,0 +1,106 @@
+@media only screen and (max-width: 600px) {
+    .some-info {
+        width: 100%;
+        padding: 0;
+        text-align: justify;
+    }
+
+    .some-info h2 {
+        font-size: 2.3rem;
+        padding: 3rem 0;
+    }
+
+    .btn {
+        padding: 5px 5px;
+        border: none;
+        text-transform: capitalize;
+        margin: 1rem 0;
+
+    }
+
+    .product {
+        padding: 2.5rem 1.3rem;
+        border-bottom: 1px solid #333;
+    }
+
+    .dot {
+        right: 40%;
+    }
+
+    .services-info h3 {
+        font-size: 1.3rem;
+    }
+
+    .services-txt p {
+        padding: 0.9rem;
+    }
+
+    .footer-txt-quick {
+        padding: 0 0.6rem;
+    }
+
+    .footer-search input {
+        width: 87%;
+    }
+
+    .btm-txt h4 {
+        font-size: 1rem;
+    }
+
+    .footer-search button {
+        padding: 11px;
+    }
+
+    .footer-txt-icon {
+        text-align: center;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width:1024px) {
+
+
+    .some-info {
+        width: 100%;
+        padding: 6rem 0 0 0;
+    }
+
+    .services-info h3 {
+        font-size: 1.3rem;
+    }
+
+    .services-txt p {
+        padding: 0.9rem;
+    }
+
+
+    .padding {
+        padding-left: 0;
+        padding-right: 10px;
+    }
+
+    .about ul li {
+        padding: 0;
+    }
+
+    .footer-txt-quick {
+        padding: 0 1.5rem;
+    }
+
+    .btm {
+        padding: 1rem 0;
+    }
+
+    .footer-search input {
+        width: 75%;
+        font-size: 14px;
+    }
+
+    .footer-search button {
+        padding: 17px;
+        font-size: 14px;
+    }
+
+    .footer-txt-icon ul li {
+        margin: 0 0.5rem 0 0;
+    }
+}
